@@ -1,0 +1,1 @@
+Frozen Kreindo template fills for 5 Phoenix prospects. Placeholders are gone. Preview via raw.githack: Service Smith (HVAC), Kerns Plumbing (Mesa ROC 212887), JP Merlos Plumbing (email-only), Dynamic Electrical (Leonel Barrera), and Clean Genie (Glendale).
