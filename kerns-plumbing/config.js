@@ -3,7 +3,7 @@ window.SITE = {
   eyebrow: "Mesa · ROC 212887",
   hero: "The Coming Soon page is over. Get the call.",
   heroEm: "call",
-  lede: "Jonathan Paul Horowitz. Mesa plumbing. Licensed ROC 212887. Gas and propane lines — not a GoDaddy placeholder.",
+  lede: "Mesa plumbing. Licensed ROC 212887. Gas and propane lines — not a GoDaddy placeholder.",
   cta: "Call (480) 264-3990",
   ctaHref: "tel:+14802643990",
   secondary: "See services",
@@ -13,10 +13,10 @@ window.SITE = {
   cards: [
     { t: "Gas & propane", d: "Lines for BBQs, pool heaters, fire pits, dryers, water heaters." },
     { t: "Plumbing", d: "Residential and commercial. Mesa and the East Valley." },
-    { t: "Licensed", d: "Arizona ROC 212887. Call the number, not a Coming Soon page." }
+    { t: "Licensed", d: "Arizona ROC 212887. Specialty dual. Call the number, not a Coming Soon page." }
   ],
   proof: "Licensed specialty plumbing. Natural gas and propane line work — the site that used to say Coming Soon now says call.",
-  proofBy: "Jonathan Paul Horowitz · Kerns Plumbing LLC · Mesa",
+  proofBy: "Kerns Plumbing LLC · Mesa",
   steps: [
     { n: "01", t: "Call", d: "(480) 264-3990. Tell us the job." },
     { n: "02", t: "Show up", d: "Licensed Mesa crew. ROC 212887." },
